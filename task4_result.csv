@@ -1,0 +1,16 @@
+company,website,contact_name,email,personalization,evidence,source_url,flags,status
+Mingwen Intelligent,mgwmachine.com,,sales01@mgwmachine.com,,,,not_ru_domain,skipped_needs_review
+HNC,hnc.su,,sales@hnc.su,Заметил на вашем сайте новость от 11.02.2026: «Сервопривода серии HSD7 от HNC Electric — надежность проверенная годами».,Сервопривода серии HSD7 от HNC Electric — надежность проверенная годами,https://hnc.su/novosti/,generic_email,ok_extract
+Tengzhong Machinery,uncomtech.ru,,sales01@nttzmt.com,,,,"email_domain_mismatch,name_not_on_site",skipped_needs_review
+Tesid Equipment,unimach.ru,,sales@unimach.ru,,,,"generic_email,name_not_on_site",skipped_needs_review
+ТД Ункомтех,saintymachine.com,,sales@thebestcnc.com,,,,"email_domain_mismatch,not_ru_domain,generic_email,name_not_on_site",skipped_needs_review
+JAT Cemented Carbide,jillionsupply.com,,sales@jillionsupply.com,,,,"not_ru_domain,generic_email,name_not_on_site",skipped_needs_review
+Rogen Technologies,jat-carbide.com,,sales@jatcarbide.com,,,,,fetch_failed
+Искролайн,iskroline.ru,,sales@iskroline.ru,Прочитал на вашем сайте: «Российские современные эмиссионные спектрометры для анализа металлов и сплавов».,Российские современные эмиссионные спектрометры для анализа металлов и сплавов.,https://www.iskroline.ru/,generic_email,ok_extract_description
+Jimmy CNC Tool,jimmytool.com,,sales@jimmytool.com,,,,,fetch_failed
+Ezhong Heavy Machinery,ezhonggroup.com,,sales@ezhonggroup.com,,,,"not_ru_domain,generic_email",skipped_needs_review
+Shixinghong Precision,saintymachine.com,,swyct@126.com,,,,"free_mail,not_ru_domain,name_not_on_site",skipped_needs_review
+Internor Machinery,internor-mach.com,,sales@internor.com.cn,,,,,fetch_failed
+РИЦ Техносфера,technosphera.ru,,sales@technosphera.ru,Заметил на вашем сайте новость от 24.03.2026: ««ТЕХНОСФЕРА» теперь в MAX  Подписывайтесь на наш канал в MAX».,«ТЕХНОСФЕРА» теперь в MAX  Подписывайтесь на наш канал в MAX,https://www.technosphera.ru/,generic_email,ok_extract
+Howfit Science,howfit-press.com,,sales@howfit-press.com,,,,"not_ru_domain,generic_email",skipped_needs_review
+Fengyi Yinhu,fengyitool.com,,sales@fengyitool.com,,,,,fetch_failed
